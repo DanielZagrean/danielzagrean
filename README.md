@@ -29,7 +29,4 @@ I am a machine learning developer and data science student with professional exp
 - Connecting data engineering with applied machine learning
 - Studying regional healthcare data and patient pathways
 
-## Connect With Me
 
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Add your email address]
