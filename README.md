@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**DanielZagrean/danielzagrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Machine Learning Developer | Data Migration & ETL Expert | Data Science Student
 
-Here are some ideas to get you started:
+I am a machine learning developer and data science student with professional expertise in data migration and ETL pipeline development. I enjoy transforming complex, fragmented data into reliable systems that support analytics and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- Develop machine learning solutions
+- Design and optimize ETL pipelines
+- Plan and execute complex data migrations
+- Clean, transform, and validate large datasets
+- Build reproducible data-processing workflows
+- Explore healthcare analytics and interdisciplinary research
+
+## Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Engineering:** ETL, data migration, data validation, data integration
+- **Machine Learning:** scikit-learn, predictive modelling, model evaluation
+- **Data Analysis:** Pandas, NumPy, Jupyter
+- **Databases:** DuckDB, relational databases
+- **Tools:** Git, GitHub, PyCharm
+
+## Current Focus
+
+- Expanding my machine learning engineering skills
+- Developing scalable and reliable data pipelines
+- Connecting data engineering with applied machine learning
+- Studying regional healthcare data and patient pathways
+
+## Connect With Me
+
+- LinkedIn: [Add your LinkedIn profile]
+- Email: [Add your email address]
